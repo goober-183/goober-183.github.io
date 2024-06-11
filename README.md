@@ -1,2 +1,2 @@
 # goober183.github.io
-My website
+i made this website cause i felt like it
