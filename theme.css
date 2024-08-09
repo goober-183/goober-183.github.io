@@ -1,45 +1,29 @@
-@import url('https://fonts.googleapis.com/css2?family=Rubik:ital,wght@0,700;1,700&display=swap');
-
 body {
     background-color: black;
+    font-family:"Rubik", sans-serif;
 }
 
 p {
-    font-family: "Rubik", sans-serif;
-    font-optical-sizing: auto;
-    font-weight: 700;
-    font-style: normal;ß
+
     color: white;
 }
 
 a {
-    font-family: "Rubik", sans-serif;
-    font-optical-sizing: auto;
-    font-weight: 700;
-    font-style: normal;ß
+
     color: white;
 }
 
 h1 {
-    font-family: "Rubik", sans-serif;
-    font-optical-sizing: auto;
-    font-weight: 700;
-    font-style: normal;ß
+
     color: white;
 }
 
 h2 {
-    font-family: "Rubik", sans-serif;
-    font-optical-sizing: auto;
-    font-weight: 700;
-    font-style: normal;ß
+
     color: white;
 }
 
 h3 {
-    font-family: "Rubik", sans-serif;
-    font-optical-sizing: auto;
-    font-weight: 700;
-    font-style: normal;ß
+
     color: white;
 }
