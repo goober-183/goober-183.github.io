@@ -1,6 +1,7 @@
 body {
     background-color: black;
-    font-family:"Rubik", sans-serif;
+    font-family: "Rubik", sans-serif;
+    text-align: center;
 }
 
 p {
@@ -25,5 +26,9 @@ h2 {
 
 h3 {
 
+    color: white;
+}
+
+h4 {
     color: white;
 }
