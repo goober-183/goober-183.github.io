@@ -1,38 +1,16 @@
-body {
-    background-color: black;
-    font-family: "Rubik", sans-serif;
-    text-align: center;
-}
-
-p {
-
-    color: white;
-}
-
-a {
-
-    color: white;
-}
-
 h1 {
-
+    padding-top: 20%;
+    text-align: center;
     color: white;
 }
 
-h2 {
-
-    color: white;
+html {
+    background-color: black;
 }
 
-h3 {
-
-    color: white;
-}
-
-h4 {
-    color: white;
-}
-
-.announcement {
-    background-color: darkslategrey;
+img {
+    scale: 75%;
+    filter: none;
+    display: flex;
+    margin: auto;
 }
